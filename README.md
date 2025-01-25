@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, created with **HTML5**, **CSS3**, **JavaScript**, and **jQuery**.
 
-[Check it out now 🚀]([https://deft-fudge-0c7fd7.netlify.app/](https://deft-fudge-0c7fd7.netlify.app/)) 
+[Check it out now 🚀](https://deft-fudge-0c7fd7.netlify.app/)
 
 ### 📌 Tech Stack:
 
