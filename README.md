@@ -15,9 +15,9 @@ This is my personal portfolio website, created with **HTML5**, **CSS3**, **JavaS
 
  A Glimpse of the Homepage 💥
 
-![](assets/images/Capture d'écran home.png)
+![Homepage Screenshot](assets/images/Capture%20d'écran%20home.png)
 
-![](assets/images/Capture d'écran skills.png)
+![Skills Screenshot](assets/images/Capture%20d'écran%20skills.png)
 
 📬 Contact Me:
 Feel free to reach out to me on LinkedIn:
