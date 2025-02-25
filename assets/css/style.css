@@ -255,6 +255,7 @@ header .navbar ul li a:hover {
   box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
+.home 
 .home .btn span {
   font-weight: 700;
   font-size: 1.7rem;
@@ -408,6 +409,11 @@ header .navbar ul li a:hover {
 }
 .resumebtn {
   margin-top: 6rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
 }
 .resumebtn .btn {
   padding: 1.7rem 3rem;
@@ -417,11 +423,18 @@ header .navbar ul li a:hover {
   background: #2506ad;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  white-space: nowrap;
 }
 .resumebtn .btn span {
   font-weight: 600;
   font-size: 1.8rem;
   letter-spacing: 0.1rem;
+  display: flex;
+  align-items: center;
 }
 .resumebtn .btn i {
   margin-left: 0.3rem;
